@@ -2,7 +2,7 @@
 
 Welcome to the School Donations Dashboard project! This repository contains a Tableau dashboard designed to provide comprehensive insights into school donations. The dashboard includes three key tabs: an Overview, Donations by Quarter, and School Departments and Donations. This tool helps schools track donation trends, analyze quarterly performance, and evaluate contributions by different departments.
 
-## Features
+## Features:
 
 - **Overview Tab:** Get a high-level view of total donations, overall trends, and key metrics.
 - **Donations by Quarter Tab:** Analyze donations received each quarter to identify seasonal trends and patterns.
